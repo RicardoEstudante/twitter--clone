@@ -4,4 +4,4 @@
 
  - Usando `Flex-box` para clonar o twitter
 
-![ texto](imagem)
+![Print do Projeto](/src/images/printApp.png)
