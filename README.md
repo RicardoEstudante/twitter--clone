@@ -1,2 +1,7 @@
-# TwitterClone
-Treinando flex-box, clonando o twitter
+<h1 align="center"> Clone do Twitter </h1>
+
+---
+
+ - Usando `Flex-box` para clonar o twitter
+
+![ texto](imagem)
